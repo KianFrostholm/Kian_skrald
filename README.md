@@ -1,7 +1,6 @@
 # Kian_skrald
 Dette er et simpelt BT-target script som giver spillere mulighed for at rode i skraldespande
 
+Det kræver dog at man har BT-target sat op på sin server samt Polyzone
 
-https://cdn.discordapp.com/attachments/860131942866616321/949016445218607144/unknown.png
-
-https://cdn.discordapp.com/attachments/860131942866616321/949016612315492402/unknown.png
+Framework: vRP
